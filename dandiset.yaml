@@ -55,8 +55,8 @@ assetsSummary:
   - OptogeneticSeries
 citation: Paz, Rodrigo; Marcott, Pamela; Ryan, Michael; Girasole, Allison; Sridhar,
   Sadhana; Duong, Vincent; Nelson, Alexandra B. (2026) Striatal Adaptations to Chronic
-  Levodopa Treatment in a Mouse Model of Parkinson’s Disease (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/001180/draft
+  Levodopa Treatment in a Mouse Model of Parkinson’s Disease (Version 0.261024.0010)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001180/0.261024.0010
 contributor:
 - awardNumber: 1 R01 NS 101354-01A1
   name: National Institutes of Health (NIH)
@@ -122,6 +122,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-08-22T14:13:20.046456+00:00'
+datePublished: '2026-10-24T00:10:53.797993+00:00'
 description: In this project, we studied how the responses to levodopa change over
   time in a mouse model of Parkinson’s Disease. We compared the behavioral response
   to levodopa over 4 weeks of treatment, including the severity and duration of levodopa-induced
@@ -137,22 +138,35 @@ description: In this project, we studied how the responses to levodopa change ov
   recording. After the recordings, we performed automated spike sorting (Kilosort)
   with manual curation to ensure the quality of single units, and aligned spiking
   of each single unit with behavioral data.
+doi: 10.48324/dandi.001180/0.261024.0010
 ethicsApproval: []
-id: DANDI:001180/draft
+id: DANDI:001180/0.261024.0010
 identifier: DANDI:001180
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001180/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001180/0.261024.0010/assets.yaml
 name: Striatal Adaptations to Chronic Levodopa Treatment in a Mouse Model of Parkinson’s
   Disease
 protocol: []
+publishedBy:
+  endDate: '2026-10-24T00:10:53.797993+00:00'
+  id: urn:uuid:7f9f2177-df00-4507-bfbd-6f9aaa7ab36a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-24T00:10:53.797993+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:ed1f330b-27c5-491c-bec8-d1f038fecd1d
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001180/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001180/0.261024.0010
+version: 0.261024.0010
 wasGeneratedBy: []
